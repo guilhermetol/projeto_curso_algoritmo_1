@@ -1,13 +1,3 @@
-/*
-nota01 := 10
-   nota02 := 15
-   
-   se(nota01 <> nota02)entao
-   escreval("Nota 01 é diferente")
-   senao
-   escreval("Nota 01 é igual")
-   fimse
-   */
 
    var nota01, nota02;
 
